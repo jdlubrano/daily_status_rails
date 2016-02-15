@@ -7,5 +7,5 @@ A Rails app that shows my daily statuses
 * Database Postgres 9.3
 
 ## Testing
-Run `rspec tests`
+Run `rspec`
 
